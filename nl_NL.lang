@@ -1,0 +1,489 @@
+﻿##############################
+# Misty World: De Mistlanden
+#
+# Dutch - THE NETHERLANDS (NL) (nl_NL) localization
+# Author: RedGalaxySW (RGSW)
+#
+# Misty world mod by Liahim
+#
+
+# Tab
+itemGroup.mist_tab=Mistlanden
+
+#Blocks
+### Ground
+tile.stone.name=Vaagsteen
+tile.stone_porous.name=Poreus Vaagsteen
+tile.stone_basic.name=Hard Vaagsteen
+tile.cobblestone.name=Keistenen
+tile.gravel.name=Grind
+tile.sand.name=Zand
+tile.red_sand.name=Rood Zand
+tile.acid_sand.name=Zuur Zand
+tile.clay_gray_block.name=Grijze Klei
+tile.clay_gray_nature.name=Ongerepte Grijze Klei
+tile.clay_gray_block.name=Gebarsten Grijze Klei
+tile.clay_red_cracked.name=Rode Klei
+tile.clay_red_nature.name=Ongerepte Rode Klei
+tile.clay_red_cracked.name=Gebarsten Rode Klei
+tile.floating_mat.name=Zwevend Kleed
+tile.peat.name=Turf
+tile.filter_coal_ore.name=Filter Steenkoolerts
+tile.filter_coal_block.name=Filter Steenkoolblok
+tile.bio_shale_ore.name=Bacteriële Schalie
+tile.bio_shale_block.name=Bacteriële Schalieblok
+tile.iron_ore.name=IJzererts
+tile.gold_ore.name=Gouderts
+tile.niobium_ore.name=Niobiumerts
+tile.niobium_block.name=Niobiumblok
+tile.lapis_ore.name=Lapis Lazulierts
+
+### Dirt
+tile.humus_dirt.name=Humus
+tile.humus_grass.name=Overgroeide Humus
+tile.sapropel_block.name=Sapropel
+tile.sapropel_nature.name=Ongerepte Sapropel
+tile.dirt_f.name=Bosaarde
+tile.dirt_s.name=Zandaarde
+tile.dirt_c.name=Kleiaarde
+tile.dirt_r.name=Steenaarde
+tile.dirt_t.name=Tropische Aarde
+tile.acid_dirt_0.name=Verzuurde Bodem
+tile.acid_dirt_1.name=Verzuurde Bodem
+tile.acid_dirt_2.name=Verzuurde Bodem
+tile.grass_f.name=Bosgras
+tile.grass_s.name=Prairiegras
+tile.grass_c.name=Moerasgras
+tile.grass_r.name=Taigagras
+tile.grass_t.name=Tropisch gras
+tile.acid_grass_0.name=Kleedkorstmos
+tile.acid_grass_1.name=Kleedkorstmos
+tile.acid_grass_2.name=Kleedkorstmos
+tile.block_wet.tooltip=Nat
+tile.block_dry.tooltip=Droog
+tile.soil_porosity_1.tooltip=Niet poreus
+tile.soil_porosity_2.tooltip=Beetje poreus
+tile.soil_porosity_3.tooltip=Heel poreus
+tile.soil_hum.tooltip=Humusinhoud
+tile.mulch_block.name=Mulch
+
+### Portal
+tile.portal_new_down.name=Portaalsteen Onderkant
+tile.portal_new_up.name=Portaalsteen Bovenkant
+tile.portal_old_down.name=Mossig steen
+tile.portal_old_down.tooltip=Aan de bovenkant is wat goud zichtbaar
+tile.portal_old_up.name=Weersteen
+tile.portal_old_up.tooltip=Aan de onderkant is wat goud zichtbaar
+
+### Trees
+tile.acacia_leaves.name=Parapluboomblaadjes
+tile.acacia_trunk.name=Parapluboomstam
+tile.aspen_leaves.name=Trilboomblaadjes
+tile.aspen_trunk.name=Trilboomstam
+tile.a_tree_leaves.name=Araucariablaadjes
+tile.a_tree_trunk.name=Araucariastam
+tile.birch_leaves.name=Bosbedriegerblaadjes
+tile.birch_trunk.name=Bosbedriegerstam
+tile.oak_leaves.name=Misteikenblaadjes
+tile.oak_trunk.name=Misteikenstam
+tile.pine_leaves.name=Vage Pijnboomnaalden
+tile.pine_trunk.name=Vage Pijnboomstam
+tile.poplar_leaves.name=Moeraspopulierblaadjes
+tile.poplar_trunk.name=Moeraspopulierstam
+tile.snow_leaves.name=IJsboomblaadjes
+tile.snow_trunk.name=IJsboomstam
+tile.spruce_leaves.name=Stekelboomnaalden
+tile.spruce_trunk.name=Stekelboomstam
+tile.s_tree_leaves.name=Steenboomblaadjes
+tile.s_tree_trunk.name=Steenboomstam
+tile.t_tree_leaves.name=Tropische Boomblaadjes
+tile.t_tree_trunk.name=Tropische Boomstam
+tile.willow_leaves.name=Huilende Boomblaadjes
+tile.willow_trunk.name=Huilende Boomstam
+tile.live_tree.tooltip=Rechts klik met een bijl om de dikte aan te passen
+
+### Sapling
+tile.acacia_sapling.name=Parapluboom Kiemplant
+tile.aspen_sapling.name=Trilboom Kiemplant
+tile.a_tree_sapling.name=Araucaria Kiemplant
+tile.birch_sapling.name=Bosbedrieger Kiemplant
+tile.oak_sapling.name=Misteik Kiemplant
+tile.pine_sapling.name=Vage Pijnboom Kiemplant
+tile.poplar_sapling.name=Moeraspopulier Kiemplant
+tile.snow_sapling.name=IJsboom Kiemplant
+tile.spruce_sapling.name=Stekelboom Kiemplant
+tile.s_tree_sapling.name=Steenboom Kiemplant
+tile.t_tree_sapling.name=Tropische Boom Kiemplant
+tile.willow_sapling.name=Huilende Boom Kiemplant
+
+###Wood Blocks
+tile.acacia_log.name=Parapluhout
+tile.acacia_log_b.name=Parapluhout
+tile.acacia_log_c.name=Gebeiteld Parapluhout
+tile.acacia_log_d.name=Ontschorst Parapluhout
+tile.acacia_log_n.name=Parapluhoutnode
+tile.acacia_log_nd.name=Ontschort Parapluhoutnode
+tile.acacia_planks.name=Parapluhoutplanken
+
+tile.aspen_log.name=Trilhout
+tile.aspen_log_b.name=Trilhout
+tile.aspen_log_c.name=Gebeiteld Trilhout
+tile.aspen_log_d.name=Ontschorst Trilhout
+tile.aspen_log_n.name=Trilhoutnode
+tile.aspen_log_nd.name=Ontschorste Trilhoutnode
+tile.aspen_planks.name=Trilhouten Planken
+
+tile.a_tree_log.name=Araucariahout
+tile.a_tree_log_b.name=Araucariahout
+tile.a_tree_log_c.name=Gebeiteld Araucariahout
+tile.a_tree_log_d.name=Ontschorst Araucariahout
+tile.a_tree_log_n.name=Araucarianode
+tile.a_tree_log_nd.name=Ontschorst Araucarianode
+tile.a_tree_planks.name=Araucariahouten Planken
+
+tile.birch_log.name=Bosbedriegershout
+tile.birch_log_b.name=Bosbedriegershout
+tile.birch_log_c.name=Gebeiteld Bosbedriegershout
+tile.birch_log_d.name=Ontschorst Bosbedriegershout
+tile.birch_log_n.name=Bosbedriegersnode
+tile.birch_log_nd.name=Ontschorste Bosbedriegersnode
+tile.birch_planks.name=Bosbedriegershouten Planken
+
+tile.oak_log.name=Misteikenhout
+tile.oak_log_b.name=Misteikenhout
+tile.oak_log_c.name=Gebeiteld Misteikenhout
+tile.oak_log_d.name=Ontschorst Misteikenhout
+tile.oak_log_n.name=Misteikenhoutnode
+tile.oak_log_nd.name=Ontschorste Misteikenhoutnode
+tile.oak_planks.name=Misteikenhouten planken
+
+tile.pine_log.name=Vaag Pijnboomhout
+tile.pine_log_b.name=Vaag Pijnboomhout
+tile.pine_log_c.name=Gebeiteld Vaag Pijnboomhout
+tile.pine_log_d.name=Ontschorst Vaag Pijnboomhout
+tile.pine_log_n.name=Vage Pijnboomnode
+tile.pine_log_nd.name=Ontschorste Vage Pijnboomnode
+tile.pine_planks.name=Vage Pijnboomplanken
+
+tile.poplar_log.name=Moeraspopulierhout
+tile.poplar_log_b.name=Moeraspopulierhout
+tile.poplar_log_c.name=Gebeiteld Moeraspopulierhout
+tile.poplar_log_d.name=Ontschorst Moeraspopulierhout
+tile.poplar_log_n.name=Moeraspopuliernode
+tile.poplar_log_nd.name=Ontschorst Moeraspopuliernode
+tile.poplar_planks.name=Moeraspopulieren Planken
+
+tile.snow_log.name=IJshout
+tile.snow_log_b.name=IJshout
+tile.snow_log_c.name=Gebeiteld IJshout
+tile.snow_log_d.name=Ontschorst IJshout
+tile.snow_log_n.name=IJshoutnode
+tile.snow_log_nd.name=Ontschorste IJshoutnode
+tile.snow_planks.name=IJshouten Planken
+
+tile.spruce_log.name=Stekelhout
+tile.spruce_log_b.name=Stekelhout
+tile.spruce_log_c.name=Gebeiteld Stekelhout
+tile.spruce_log_d.name=Ontschorst Stekelhout
+tile.spruce_log_n.name=Stekelhoutnode
+tile.spruce_log_nd.name=Ontschorste Stekelhoutnode
+tile.spruce_planks.name=Stekelhouten Planken
+
+tile.s_tree_log.name=Steenboomhout
+tile.s_tree_log_b.name=Steenboomhout
+tile.s_tree_log_c.name=Gebeiteld Steenboomhout
+tile.s_tree_log_d.name=Ontschorst Steenboomhout
+tile.s_tree_log_n.name=Steenboomnode
+tile.s_tree_log_nd.name=Ontschorste Steenboomnode
+tile.s_tree_planks.name=Steenboomhouten Planken
+
+tile.t_tree_log.name=Tropisch Hout
+tile.t_tree_log_b.name=Tropisch Hout
+tile.t_tree_log_c.name=Gebeiteld Tropisch Hout
+tile.t_tree_log_d.name=Ontschorst Tropisch Hout
+tile.t_tree_log_n.name=Tropisch Hout Node
+tile.t_tree_log_nd.name=Ontschorst Tropisch Hout Node
+tile.t_tree_planks.name=Tropisch Houten Planken
+
+tile.willow_log.name=Huilend Hout
+tile.willow_log_b.name=Huilend Hout
+tile.willow_log_c.name=Gebeiteld Huilend Hout
+tile.willow_log_d.name=Ontschorst Huilend Hout
+tile.willow_log_n.name=Huilend Hout Node
+tile.willow_log_nd.name=Ontschorst Huilend Hout Node
+tile.willow_planks.name=Huilend Houten Planken
+
+### Step
+tile.cobblestone_step.name=Keistenen Drempel
+tile.acacia_step.name=Parapluhouten Drempel
+tile.aspen_step.name=Trilboomhouten Drempel
+tile.a_tree_step.name=Araucariahouten Drempel
+tile.birch_step.name=Bosbedriegerhouten Drempel
+tile.oak_step.name=Misteikenhouten Drempel
+tile.pine_step.name=Vage Pijnboomhouten Drempel
+tile.poplar_step.name=Moeraspopulierhouten Drempel
+tile.snow_step.name=IJshouten Drempel
+tile.spruce_step.name=Stekelhouten Drempel
+tile.s_tree_step.name=Steenboomhouten Drempel
+tile.t_tree_step.name=Tropisch Houten Drempel
+tile.willow_step.name=Huilend Houten Drempel
+
+### Slab
+tile.cobblestone_slab.name=Keistenen Plaat
+tile.acacia_slab.name=Parapluhouten Plaat
+tile.aspen_slab.name=Trilboomhouten Plaat
+tile.a_tree_slab.name=Araucariahouten Plaat
+tile.birch_slab.name=Bosbedriegerhouten Plaat
+tile.oak_slab.name=Misteikenhouten Plaat
+tile.pine_slab.name=Vage Pijnboomhouten Plaat
+tile.poplar_slab.name=Moeraspopulierhouten Plaat
+tile.snow_slab.name=IJshouten Plaat
+tile.spruce_slab.name=Stekelhouten Plaat
+tile.s_tree_slab.name=Steenboomhouten Plaat
+tile.t_tree_slab.name=Tropisch Houten Plaat
+tile.willow_slab.name=Huilend Houten Plaat
+
+### Stairs
+tile.cobblestone_stairs.name=Keistenen Treden
+tile.acacia_stairs.name=Parapluhouten Treden
+tile.aspen_stairs.name=Trilboomhouten Treden
+tile.a_tree_stairs.name=Araucariahouten Treden
+tile.birch_stairs.name=Bosbedriegerhouten Treden
+tile.oak_stairs.name=Misteikenhouten Treden
+tile.pine_stairs.name=Vage Pijnboomhouten Treden
+tile.poplar_stairs.name=Moeraspopulierhouten Plaat
+tile.snow_stairs.name=IJshouten Plaat
+tile.spruce_stairs.name=Stekelhouten Plaat
+tile.s_tree_stairs.name=Sheenboomhouten Plaat
+tile.t_tree_stairs.name=Tropisch Houten Plaat
+tile.willow_stairs.name=Huilend Houten Plaat
+
+### Branch
+tile.acacia_branch_4.name=Parapluboomtak
+tile.acacia_branch_4_d.name=Ontschorste Parapluboomtak
+tile.acacia_branch_8.name=Dikke Parapluboomtak
+tile.acacia_branch_8_d.name=Dikke Ontschorste Parapluboomtak
+tile.aspen_branch_4.name=Trilboomtak
+tile.aspen_branch_4_d.name=Ontschorste Trilboomtak
+tile.aspen_branch_8.name=Dikke Trilboomtak
+tile.aspen_branch_8_d.name=Dikke Ontschorste Trilboomtak
+tile.a_tree_branch_4.name=Araucariatak
+tile.a_tree_branch_4_d.name=Onschorste Araucariatak
+tile.a_tree_branch_8.name=Dikke Araucariatak
+tile.a_tree_branch_8_d.name=Dikke Ontschorste Araucariatak
+tile.birch_branch_4.name=Bosbedriegerstak
+tile.birch_branch_4_d.name=Ontschorste Bosbedriegerstak
+tile.birch_branch_8.name=Dikke Bosbedriegerstak
+tile.birch_branch_8_d.name=Dikke Ontschorste Bosbedriegerstak
+tile.oak_branch_4.name=Misteikentak
+tile.oak_branch_4_d.name=Ontschorste Misteikentak
+tile.oak_branch_8.name=Dikke Misteikentak
+tile.oak_branch_8_d.name=Dikke Ontschorste Misteikentak
+tile.pine_branch_4.name=Vage Pijnboomtak
+tile.pine_branch_4_d.name=Ontschorste Vage Pijnboomtak
+tile.pine_branch_8.name=Dikke Vage Pijnboomtak
+tile.pine_branch_8_d.name=Dikke Ontschorste Vage Pijnboomtak
+tile.poplar_branch_4.name=Moeraspopuliertak
+tile.poplar_branch_4_d.name=Ontschorste Moeraspopuliertak
+tile.poplar_branch_8.name=Dikke Moeraspopuliertak
+tile.poplar_branch_8_d.name=Dikke Ontschorste Moeraspopuliertak
+tile.snow_branch_4.name=IJsboomtak
+tile.snow_branch_4_d.name=Ontschorste IJsboomtak
+tile.snow_branch_8.name=Dikke IJsboomtak
+tile.snow_branch_8_d.name=Dikke Ontschorste IJsboomtak
+tile.spruce_branch_4.name=Stekelboomtak
+tile.spruce_branch_4_d.name=Ontschorste Stekelboomtak
+tile.spruce_branch_8.name=Dikke Stekelboomtak
+tile.spruce_branch_8_d.name=Dikke Ontschorste Stekelboomtak
+tile.s_tree_branch_4.name=Steenboomtak
+tile.s_tree_branch_4_d.name=Ontschorste Steenboomtak
+tile.s_tree_branch_8.name=Dikke Steenboomtak
+tile.s_tree_branch_8_d.name=Dikke Ontschorste Steenboomtak
+tile.t_tree_branch_4.name=Tropische Boomtak
+tile.t_tree_branch_4_d.name=Ontschorste Tropische Boomtak
+tile.t_tree_branch_8.name=Dikke Tropische Boomtak
+tile.t_tree_branch_8_d.name=Dikke Ontschorste Tropische Boomtak
+tile.willow_branch_4.name=Huilende Boomtak
+tile.willow_branch_4_d.name=Ontschorste Huilende Boomtak
+tile.willow_branch_8.name=Dikke Huilende Boomtak
+tile.willow_branch_8_d.name=Dikke Ontschorste Huilende Boomtak
+
+### Upper Plants
+tile.mushroom_brown.name=Bruine Paddenstoel
+tile.mushroom_black.name=Zwarte Paddenstoel
+tile.mushroom_gray.name=Grijze Paddenstoel
+tile.mushroom_red.name=Rode Paddenstoel
+tile.mushroom_orange.name=Oranje Paddenstoel
+tile.mushroom_coral.name=Koraalzwam
+tile.mushroom_yellow.name=Gele Paddenstoel
+tile.mushroom_blue.name=Blauwe Paddenstoel
+tile.mushroom_purple.name=Paarse Paddenstoel
+tile.mushroom_marsh.name=Moeraszwam
+tile.mushroom_pink.name=Roze Paddenstoel
+tile.mushroom_puff.name=Aardappelboleet
+tile.mushroom_sand.name=Zandzwam
+tile.mushroom_spot.name=Gevlekte Paddenstoel
+tile.mushroom_cup.name=Bekerzwam
+tile.mushroom_azure.name=Azuure Paddenstoel
+tile.mushroom_green.name=Groene Paddenstoel
+tile.mushroom_copper.name=Koperen Paddenstoel
+tile.mushroom_silver.name=Zilveren Paddenstoel
+tile.mushroom_beige.name=Beige Paddenstoel
+tile.mushroom_gold.name=Gouden Paddenstoel
+tile.mushroom_white.name=Witte Paddenstoel
+tile.mushroom_violet.name=Violet Paddenstoel
+tile.mushroom_lilac.name=Lila Paddenstoel
+tile.mushroom_tan.name=Bruinzwam
+tile.mushroom.tooltip=Rechts klik op aarde om Mycelium te maken
+
+tile.mushroom_brown_c.name=Gekookte Bruine Paddenstoel
+tile.mushroom_black_c.name=Gekookte Zwarte Paddenstoel
+tile.mushroom_gray_c.name=Gekookte Grijze Paddenstoel
+tile.mushroom_red_c.name=Gekookte Rode Paddenstoel
+tile.mushroom_orange_c.name=Gekookte Oranje Paddenstoel
+tile.mushroom_coral_c.name=Gekookte Koraalzwam
+tile.mushroom_yellow_c.name=Gekookte Gele Paddenstoel
+tile.mushroom_blue_c.name=Gekookte Blauwe Paddenstoel
+tile.mushroom_purple_c.name=Gekookte Paarse Paddenstoel
+tile.mushroom_marsh_c.name=Gekookte Moeraszwam
+tile.mushroom_pink_c.name=Gekookte Roze Paddenstoel
+tile.mushroom_puff_c.name=Gekookte Aardappelboleet
+tile.mushroom_sand_c.name=Gekookte Zandzwam
+tile.mushroom_spot_c.name=Gekookte Gevlekte Paddenstoel
+tile.mushroom_cup_c.name=Gekookte Bekerzwam
+tile.mushroom_azure_c.name=Gekookte Azuren Paddenstoel
+tile.mushroom_green_c.name=Gekookte Groene Paddenstoel
+tile.mushroom_copper_c.name=Gekookte Koperen Paddenstoel
+tile.mushroom_silver_c.name=Gekookte Zilveren Paddenstoel
+tile.mushroom_beige_c.name=Gekookte Beige Paddenstoel
+tile.mushroom_gold_c.name=Gekookte Gouden Paddenstoel
+tile.mushroom_white_c.name=Gekookte Witte Paddenstoel
+tile.mushroom_violet_c.name=Gekookte Violet Paddenstoel
+tile.mushroom_lilac_c.name=Gekookte Lila Paddenstoel
+tile.mushroom_tan_c.name=Gekookte Bruinzwam
+
+tile.mycelium.name=Mycelium
+
+### Down Plants
+tile.sponge_clear.name=Mistige Spons
+tile.sponge_wet.name=Vieze Mistige Spons
+tile.sponge_spoiled.name=Verspilde Mistige Spons
+
+### Bed
+tile.bed.in_fog=Je kunt niet slapen in de mistige zones
+
+# Items
+item.more_info.tooltip=Druk op shift voor meer info
+### Other
+item.rocks.name=Stenen
+item.clay_ball_gray.name=Grijze Klei
+item.clay_ball_red.name=Rode Klei
+item.humus.name=Humus
+item.sapropel_ball.name=Sapropel
+item.compost.name=Compost
+item.sponge_fibre.name=Viese Mistige Sponsvezel
+item.sponge_fibre_clear.name=Mistige Sponsvezel
+item.sponge_slime.name=Gifextract
+item.sponge_spore.name=Mistig Sponsspoor
+item.filter_coal.name=Filter Steenkool
+item.bio_shale.name=Bacteriële Schalie
+item.niobium_ingot.name=Niobiumstaaf
+item.niobium_nugget.name=Niobiumklompje
+item.mulch.name=Mulch
+item.ash.name=As
+
+### Food
+item.sponge_meat.name=Mistig Sponsvlees
+item.soup.name=Moes
+item.food_inedible.tooltip=Giftig
+item.food_unknown.tooltip=Eetbaar?
+item.food_edible.tooltip=Eetbaar
+
+### Tools
+item.niobium_axe.name=Niobium Bijl
+item.niobium_hoe.name=Niobium Schoffel
+item.niobium_pickaxe.name=Niobium Houweel
+item.niobium_shovel.name=Niobium Schep
+item.niobium_sword.name=Niobium Zwaard
+
+### Armor
+item.niobium_helmet.name=Niobium Helm
+item.niobium_chestplate.name=Niobium Borstplaat
+item.niobium_leggings.name=Niobium Broek
+item.niobium_boots.name=Niobium Laarzen
+
+### Gizmos
+item.respirator_single.name=Respirator
+item.filter.tooltip=Filter
+item.filter_damage.tooltip=Verontreinigingslevel
+item.filter_empty.tooltip=Leeg
+item.hygrometer.name=Hygrometer
+item.centrometer.name=Mysterieuze Schijf
+item.flint_and_stone.name=Vuursteen En Steen
+
+###Maps
+item.map_up.tooltip=Bovenste deel
+item.map_down.tooltip=Onderste deel
+
+###Fluids
+
+fluid.mist_acid=Zuur
+item.acid_bucket.name=Zuur Emmer
+
+# DamageSourse
+death.attack.mist_in_fog=%1$s is gestikt in de mist
+death.attack.mist_dissolution=%1$s is opgelost in zuur
+
+# GUI
+gui.bad_sleep=Je kunt moeilijk slapen
+gui.bad_sleep.line_1=Je maakt je zorgen om je vrienden die naar de Mistlanden zijn vertrokken...
+gui.bad_sleep.line_2=Je maakt je zorgen om je vrienden die in de Bovenwereld zijn gebleven...
+gui.mist_pot=Stukken
+gui.mist_pot_info=Pot
+gui.mist_pot_impurity=Onzuiverheid
+gui.mist_pot_saturation=Punten/Stuk
+
+# Keybind
+keybind.mask_inventory=Maskerinventaris
+
+# advancements
+advancements.misty_world=Mistlanden
+advancements.misty_world.desc=Het verhaal begint!
+advancements.start=Een snelle blik
+advancements.start.desc=Vannacht zag je een rare steen in de handen van een Enderman.
+advancements.full_set=Volle lading
+advancements.full_set.desc=Vermoord een Enderman om de stenen te krijgen.
+advancements.portal=Goudkoorts
+advancements.portal.desc=Maak een portaal naar de Mistlanden
+advancements.first_breath=Eerste adem
+advancements.first_breath.desc=Betreed de Mistlanden
+advancements.right_choice=De goede keuze!
+advancements.right_choice.desc=Open een portaal in de Mistleegte
+advancements.second_breath=Tweede adem
+advancements.second_breath.desc=Betreed de mist
+advancements.night_walk=Nachtwandeling
+advancements.night_walk.desc=Wandel 's nachts langs een klif om niobium te vinden
+advancements.niobium=Zeg hoi tegen Mendeleëv
+advancements.niobium.desc=Gooi niobium in de oven om een niobiumstaaf te maken
+advancements.mask=Diep ademhalen!
+advancements.mask.desc=Maak een respirator.
+advancements.mask_full=Een belangrijk dingetje
+advancements.mask_full.desc=Vergeet de filter niet
+advancements.third_breath=Derde adem
+advancements.third_breath.desc=Voorwaarts en omhoo...eeh...laag
+advancements.pickaxe=Als een mes door boter!
+advancements.pickaxe.desc=Maak een niobium houweel om makkelijk door de stenen te hakken
+advancements.coal=Zeldzamer dan goud
+advancements.coal.desc=Verkrijg filterkool, je hebt het nodig
+advancements.coal_block=Je kunt leven
+advancements.coal_block.desc=Haal de respirator weg uit de mist bij een van de absorptiefactoren, bijvoorbeeld: een filterkoolblok
+advancements.carving=Bijtelen
+advancements.carving.desc=Maak een gebijteld houtblok door met een bijl rechts te klikken
+advancements.mulch=De zon stopt nooit
+advancements.mulch.desc=Muls de landbouwgrond
+advancements.compost=Recycelen
+advancements.compost.desc=Maak een composthoop door rechts te klikken met shift bovenop een bodem, met biomateriaal in je handen
+advancements.fertile=Voedingsrijker
+advancements.fertile.desc=Maak je landbouwgrond voedingsrijker met humus
+advancements.mushroomer=Zwemmen in de zwammen
+advancements.mushroomer.desc=Proef alle paddenstoelen uit de Mistlanden in gekookte en rauwe vorm
